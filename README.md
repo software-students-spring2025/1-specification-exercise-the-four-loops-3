@@ -4,11 +4,20 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
+Oluwapelumi Adesiyan
+Gabriella Codrington
+Nyjur Majok
+Ajok Thon
 
 ## Stakeholders
 
 See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+
+Stakeholders:
+
+Problems/Frustrations:
+
+Goals/Needs:
 
 ## Product Vision Statement
 
