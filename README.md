@@ -4,9 +4,9 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-Oluwapelumi Adesiyan
-Gabriella Codrington
-Nyjur Majok
+Oluwapelumi Adesiyan <br />
+Gabriella Codrington <br />
+Nyjur Majok <br />
 Ajok Thon
 
 ## Stakeholders
