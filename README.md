@@ -7,12 +7,12 @@ Nyjur Majok <br />
 Ajok Thon
 
 ## Stakeholders
-**Stakeholders:**
-Name: Sarah Hanun
-Year: Junior
-Major: Journalism
-Housing: On Campus Dorm
-Occupation: Resident Assistant
+**Stakeholders:** <br />
+Name: Sarah Hanun <br />
+Year: Junior <br />
+Major: Journalism <br />
+Housing: On Campus Dorm <br />
+Occupation: Resident Assistant <br />
 Hometown: Las Vegas, Nevada
 
 Sarah has plans of moving going back home to Las Vegas, for the Summer break and will not be returning as an RA in the Fall term.
