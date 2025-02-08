@@ -42,4 +42,4 @@ See instructions. Delete this line and place a list of your User Stories here.
 See instructions. Delete this line and place images of your UML Activity diagrams here.
 
 ## Clickable Prototype
-[Clickable Prototype] (https://www.figma.com/proto/mm1XY01lCteffMXzK5o66Q/The-Four-Loops?node-id=0-1&t=6RVIYX1wnGDgkG3A-1)
+[Clickable Prototype](https://www.figma.com/proto/mm1XY01lCteffMXzK5o66Q/The-Four-Loops?node-id=0-1&t=6RVIYX1wnGDgkG3A-1)
