@@ -40,7 +40,7 @@ Our app is a student-exclusive marketplace that allows NYU students to trade or 
 4. As a user, I want to be able to report suspicious listings so that I can keep the platform safe and usable.
 5. As a user, I want to receive notifications when new items are listed so that I can stay up to date on what other users are offering.
 6. As a lister, I want to be able to mark items as traded or available so that other users know what is still available to them.
-7. As a user, I want to see my past listing and trade history so that I can have a record of my transactions.
+7. As a user, I want to see my past listings and trade history so that I can have a record of my transactions.
 
 
 ## Activity Diagrams
