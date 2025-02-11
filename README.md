@@ -49,13 +49,10 @@ Our app is a student-exclusive marketplace that allows NYU students to trade or 
 
 ## Activity Diagrams
 __Story 8__: As an international student, I want to quickly trade off items that are not of great importance so that I can travel inexpensively.
-
-[Trading Page UML](./intl-student-story.pdf)
-<img width="124" alt="Story 8" src="./intl-student-story.pdf" />
-
+![Story 8](./intl-student-story.pdf)
 
 __Story 7__: As a user, I want to see my past listings and trade history so that I can have a record of my transactions.
-<img width="124" alt="Story 7" src="./history-uml.pdf" />
+![Story 8](./history-uml.pdf)
 
 ## Clickable Prototype
 [Clickable Prototype](https://www.figma.com/proto/mm1XY01lCteffMXzK5o66Q/The-Four-Loops?node-id=0-1&t=6RVIYX1wnGDgkG3A-1)
