@@ -50,6 +50,9 @@ Our app is a student-exclusive marketplace that allows NYU students to trade or 
 ## Activity Diagrams
 
 See instructions. Delete this line and place images of your UML Activity diagrams here.
+__Story__: As an international student, I want to quickly trade off items that are not of great importance so that I can travel inexpensively.
+
+./intl-student-story.pdf
 
 ## Clickable Prototype
 [Clickable Prototype](https://www.figma.com/proto/mm1XY01lCteffMXzK5o66Q/The-Four-Loops?node-id=0-1&t=6RVIYX1wnGDgkG3A-1)
