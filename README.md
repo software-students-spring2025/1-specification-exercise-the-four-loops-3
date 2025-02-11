@@ -47,8 +47,6 @@ Our app is a student-exclusive marketplace that allows NYU students to trade or 
 11. As an under-calculator,  I want to track inventory lists of common essentials of my peers so that I can better understand my needs and avoid underbuying in the future. 
 12. As a first-year student, I want access to essential resources such as textbooks from upperclassmen, so that I have an easier transition into the semester. 
 
-
-
 ## Activity Diagrams
 
 See instructions. Delete this line and place images of your UML Activity diagrams here.
