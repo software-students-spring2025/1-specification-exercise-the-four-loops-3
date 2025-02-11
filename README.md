@@ -41,9 +41,9 @@ Our app is a student-exclusive marketplace that allows NYU students to trade or 
 5. As a user, I want to receive notifications when new items are listed so that I can stay up to date on what other users are offering.
 6. As a lister, I want to be able to mark items as traded or available so that other users know what is still available to them.
 7. As a user, I want to see my past listings and trade history so that I can have a record of my transactions.
-8.As an international student, I want to quickly trade off items that are not of great importance so that I can travel inexpensively.
+8. As an international student, I want to quickly trade off items that are not of great importance so that I can travel inexpensively.
 9. As a financially-challenged student, I want to exchange items with other students instead of purchasing new ones, so that I can budget efficiently.
-10.As a compulsive buyer, I want to connect with other students, so that I can build a supportive network and let go of material possessions. 
+10. As a compulsive buyer, I want to connect with other students, so that I can build a supportive network and let go of material possessions. 
 11. As an under-calculator,  I want to track inventory lists of common essentials of my peers so that I can better understand my needs and avoid underbuying in the future. 
 12. As a first-year student, I want access to essential resources such as textbooks from upperclassmen, so that I have an easier transition into the semester. 
 
