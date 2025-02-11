@@ -3,7 +3,7 @@
 ## Team members
 [Oluwapelumi Adesiyan](https://github.com/oadesiyan) <br />
 Gabriella Codrington <br />
-Nyjur Majok <br />
+[Nyjur Majok](https://github.com/nyjur1) <br />
 Ajok Thon
 
 ## Stakeholders
