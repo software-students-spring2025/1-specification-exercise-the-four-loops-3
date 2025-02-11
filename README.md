@@ -52,7 +52,7 @@ __Story 8__: As an international student, I want to quickly trade off items that
 <img src="./intl-student-story.png" alt="Story 8" height="600"/>
 
 __Story 7__: As a user, I want to see my past listings and trade history so that I can have a record of my transactions.
-<img src="./history-uml.png" alt="Story 7" height="600"/>
+<img src="./7-history-uml.png" alt="Story 7" height="600"/>
 
 ## Clickable Prototype
 [Clickable Prototype](https://www.figma.com/proto/mm1XY01lCteffMXzK5o66Q/The-Four-Loops?node-id=0-1&t=6RVIYX1wnGDgkG3A-1)
