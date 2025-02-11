@@ -1,7 +1,7 @@
 # Specification Phase Exercise
 
 ## Team members
-Oluwapelumi Adesiyan <br />
+[Oluwapelumi Adesiyan](https://github.com/oadesiyan) <br />
 Gabriella Codrington <br />
 Nyjur Majok <br />
 Ajok Thon
