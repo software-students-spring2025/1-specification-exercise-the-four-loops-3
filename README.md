@@ -49,7 +49,7 @@ Our app is a student-exclusive marketplace that allows NYU students to trade or 
 
 ## Activity Diagrams
 __Story 8__: As an international student, I want to quickly trade off items that are not of great importance so that I can travel inexpensively. <br>
-<img src="./intl-student-story.png" alt="Story 8" height="600"/>
+<img src="./ SWEProject1.jpg" alt="Story 8" height="600"/>
 
 __Story 7__: As a user, I want to see my past listings and trade history so that I can have a record of my transactions.
 <img src="./7-history-uml.png" alt="Story 7" height="600"/>
