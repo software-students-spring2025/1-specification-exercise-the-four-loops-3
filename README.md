@@ -48,15 +48,14 @@ Our app is a student-exclusive marketplace that allows NYU students to trade or 
 12. As a first-year student, I want access to essential resources such as textbooks from upperclassmen, so that I have an easier transition into the semester. 
 
 ## Activity Diagrams
-
-See instructions. Delete this line and place images of your UML Activity diagrams here.
 __Story 8__: As an international student, I want to quickly trade off items that are not of great importance so that I can travel inexpensively.
 
 [Trading Page UML](./intl-student-story.pdf)
+<img width="124" alt="Story 8" src="./intl-student-story.pdf" />
 
 
 __Story 7__: As a user, I want to see my past listings and trade history so that I can have a record of my transactions.
-[History Uml Diagram](./history-uml.pdf)
+<img width="124" alt="Story 7" src="./history-uml.pdf" />
 
 ## Clickable Prototype
 [Clickable Prototype](https://www.figma.com/proto/mm1XY01lCteffMXzK5o66Q/The-Four-Loops?node-id=0-1&t=6RVIYX1wnGDgkG3A-1)
