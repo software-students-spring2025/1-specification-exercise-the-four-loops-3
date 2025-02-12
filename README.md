@@ -4,7 +4,7 @@
 [Oluwapelumi Adesiyan](https://github.com/oadesiyan) <br />
 Gabriella Codrington <br />
 [Nyjur Majok](https://github.com/nyjur1) <br />
-Ajok Thon
+[Ajok Thon](https://github.com/ajokt123) 
 
 ## Stakeholders
 **Stakeholders:** <br />
