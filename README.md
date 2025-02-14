@@ -2,7 +2,7 @@
 
 ## Team members
 [Oluwapelumi Adesiyan](https://github.com/oadesiyan) <br />
-Gabriella Codrington <br />
+[Gabriella Codrington](https://github.com/gabriella-codrington) <br />
 [Nyjur Majok](https://github.com/nyjur1) <br />
 [Ajok Thon](https://github.com/ajokt123) 
 
